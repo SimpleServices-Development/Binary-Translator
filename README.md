@@ -16,7 +16,7 @@ This project is a simple yet powerful tool that allows users to seamlessly conve
 
 ## Use Cases
 
-- Learning about binary and ASCII encoding.
+- Learning about binary encoding.
 - Sending encoded messages for fun.
 - Debugging or testing encoding in software development.
 
